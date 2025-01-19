@@ -6,7 +6,7 @@ Keywords: DNS server properties,Server name / IP
 
 In this section of the DNS server properties dialog, you specify the host name or IP address of the this DNS server:
 
-![](https://jhsoftware.dk/is/f1299f6b7124.png)
+![](images/f1299f6b7124.png)
 
 Note: DNS updates can generally only be performed against the primary DNS server(s) for a DNS zone.
 

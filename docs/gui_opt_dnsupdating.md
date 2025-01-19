@@ -6,7 +6,7 @@ Keywords: Options dialog,DNS updating,Concurrent DNS updates,Default DNS servers
 
 In this section of the Options dialog, you can configure general settings related to DNS updates.
 
-![](https://jhsoftware.dk/is/cfb7104a4af0.png)
+![](images/cfb7104a4af0.png)
 
 - **Max. concurrent DNS updates**\
 Defines the maximum number of DNS updates to perform at the same time. 

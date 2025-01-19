@@ -6,7 +6,7 @@ Keywords: Options dialog,User interface,System tray,Sound file
 
 In this section of the Options dialog, you can configure settings related to the Simple Failover user interface:
 
-![](https://jhsoftware.dk/is/4ae9ddf5a3cc.png)
+![](images/4ae9ddf5a3cc.png)
 
 - **Launch user interface to system tray at Windows login**\
 With this option enabled, the Simple Failover user interface will automatically be started as an icon in the [system tray](gui_tray.md) whenever you logon to Windows.\

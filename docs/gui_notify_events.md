@@ -6,4 +6,4 @@ Keywords: Notification properties dialog,Events
 
 In this section of the Notification properties dialog, you specify which events to send the notification for:
 
-![](https://jhsoftware.dk/is/11f6ba9ad143.png)
+![](images/11f6ba9ad143.png)

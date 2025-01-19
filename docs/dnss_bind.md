@@ -14,7 +14,7 @@ In BIND, TSIG signed dynamic DNS updates are configured individually for each DN
 
 Open the BIND configuration file (named.conf) file in a text editor, and add a key section in the top of the file, and add a matching allow-update statement to the zone you want Simple Failover to update as follows:
 
-![](https://jhsoftware.dk/is/e7131e07627d.png)
+![](images/e7131e07627d.png)
 
 IMPORTANT: make sure to add a period (.) after the key name (following the word *key*) in both sections.
 
@@ -28,7 +28,7 @@ After editing and saving the named.conf file, you must restart BIND for the chan
 
 The key, algorithm and the secret must match the settings in  Simple Failover:
 
-![](https://jhsoftware.dk/is/daa96598ceca.png)
+![](images/daa96598ceca.png)
 
 Note: Updates can only be performed on primary DNS zones - not on secondary zones.
 

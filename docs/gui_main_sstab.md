@@ -6,7 +6,7 @@ Keywords: Main window,Server Sets tab,Polling history,Ping
 
 The content area of main window Server Sets tab contains a list of server sets (left) and a status page for the currently selected server set (right):
 
-![](https://jhsoftware.dk/is/357633437025.png)
+![](images/357633437025.png)
 
 Each server set in the list (left) also has an icon indicating the current overall status of the server set: green / check mark = all ok, red / cross = one or more problems, grey / ? = unknown status.
 

@@ -10,7 +10,7 @@ Simple Failover can act as a simple DNS server, responding to DNS requests for h
 
 DNS requests that it cannot answer itself (unknown host names / other record types) can be forwarded to another DNS server.
 
-![](https://jhsoftware.dk/is/036239a27125.png)
+![](images/036239a27125.png)
 
 - **Serve DNS requests directly**\
 Check this to enable serving DNS requests directly.

@@ -6,7 +6,7 @@ Keywords: Main window,Server Sets tab,Log tab,Problems tab,File menu,Tool bar
 
 The main window in Simple Failover consists of a File menu and 3 tabs (Server Sets, Log, Problems), a Help button (blue circle with ?), and a tool bar:
 
-![](https://jhsoftware.dk/is/5c8db9d3998f.png)
+![](images/5c8db9d3998f.png)
 
  ## File menu
 

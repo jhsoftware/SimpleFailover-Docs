@@ -6,7 +6,7 @@ Keywords: Server set properties dialog,Polling frequency
 
 In this section of the Server set properties dialog, you can specify how often servers are polled:
 
-![](https://jhsoftware.dk/is/d4d7557b798a.png)
+![](images/d4d7557b798a.png)
 
 - **Polling interval when all server polls are successful**\
 How often this Server set is polled.\

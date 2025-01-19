@@ -1,8 +1,8 @@
 ---
-Slug: introduction
+Slug: welcome
 Keywords: Introduction,Monitoring,Notification,Redirection,Weighted round robin,Load balancing,DNS caching,Server set
 ---
-# Introduction
+# Welcome to Simple Failover Help
 
 [?WEB]
 > [!BLUE] **NOTE:** This is an on-line version of the help file (.chm) which is included with the latest version of Simple Failover.

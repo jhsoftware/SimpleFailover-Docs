@@ -12,21 +12,21 @@ When updating DNS records on Simple DNS Plus with Simple Failover, we recommend 
 
 To configure TSIG signed dynamic updates in Simple DNS Plus, click the "Options" button.
 
-![](https://jhsoftware.dk/is/1b2d65290ecb.png)
+![](images/1b2d65290ecb.png)
 
 In the Options dialog, select the "TSIG Updates" section, and click the "Add..." button:
 
-![](https://jhsoftware.dk/is/b1aec5d938f6.png)
+![](images/b1aec5d938f6.png)
 
 In the TSIG Key dialog, enter a key name (for example "simplefailover"), select a signing algorithm, generate a random secret, and optionally specify which domains names Simple Failover is allowed to update:
 
-![](https://jhsoftware.dk/is/549a05c32d5e.png)
+![](images/549a05c32d5e.png)
 
 Click the OK buttons in this and the previous dialog to save your settings.
 
 In Simple Failover, make sure to use the same settings:
 
-![](https://jhsoftware.dk/is/9bddecea3a1b.png)
+![](images/9bddecea3a1b.png)
 
 Note: Updates can only be performed on primary DNS zones - not on secondary zones.
 

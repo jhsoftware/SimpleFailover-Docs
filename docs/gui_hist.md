@@ -10,7 +10,7 @@ You reach this dialog from the [main window / Server Sets tab](gui_main_sstab.md
 
 Note: In the [Options dialog / Server polling section](gui_opt_serverpolling.md), you can configure Simple Failover to "Only record poll result when server status changes", and "purge entries older than \_\_\_ days" which reduces the number of events listed here.
 
-![](https://jhsoftware.dk/is/6b9780e6c506.png)
+![](images/6b9780e6c506.png)
 
  - **Filter by**
 

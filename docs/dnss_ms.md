@@ -14,7 +14,7 @@ So unfortunately, Simple Failover has no way to securely update a Microsoft DNS 
 
 Simple Failover does however provide another update method specifically for Microsoft DNS servers - utilizing Microsoft's "dnscmd.exe" tool behind the scenes.
 
-![](https://jhsoftware.dk/is/bede5030005a.png)
+![](images/bede5030005a.png)
 
 If you want to update a Microsoft DNS server on a remote computer, that computer must be running the "Simple Failover - Microsoft DNS update agent" program - see <https://simplefailover.com/mdua.aspx>
 

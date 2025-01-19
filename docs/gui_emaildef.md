@@ -8,7 +8,7 @@ The E-mail notification defaults dialog  is used to specify default settings for
 
 You reach this dialog either from the [Options dialog / Notification section](gui_opt_notification.md) by clicking the "E-mail notification defaults..." button, or from the [Notification properties dialog / Notify method section](gui_notify_method.md) selecting the "e-mail" notification method and clicking the "Edit defaults..." button at the bottom of the page.
 
-![](https://jhsoftware.dk/is/603bda62546c.png)
+![](images/603bda62546c.png)
 
  - **From e-mail address**\
 The e-mail address that will appear as the From address in e-mail notifications.\

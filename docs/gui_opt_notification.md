@@ -6,7 +6,7 @@ Keywords: Options dialog,Notification,E-mail notification defaults,Default notif
 
 In this section of the Options dialog, you can configure the default notification methods.
 
-![](https://jhsoftware.dk/is/41158338c8a7.png)
+![](images/41158338c8a7.png)
 
  - **Default notification methods**\
 List of default notification methods.\

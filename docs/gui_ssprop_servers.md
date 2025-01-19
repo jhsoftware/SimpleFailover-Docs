@@ -6,7 +6,7 @@ Keywords: Server Set Properties dialog,Servers
 
 In this section of the Server set properties dialog, you can specify the individual servers that make up the server set:
 
-![](https://jhsoftware.dk/is/547348380a54.png)
+![](images/547348380a54.png)
 
  - **Servers**\
 List of individual servers that make up the server set.\

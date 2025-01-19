@@ -6,7 +6,7 @@ Keywords: Options dialog,HTTP API
 
 In this section of the Options dialog, you can configure settings related to the [HTTP API](httpapi.md):
 
-![](https://jhsoftware.dk/is/7b7d959e6301.png)
+![](images/7b7d959e6301.png)
 
 - **Enable HTTP API**\
 Enable / disable the HTTP API interface.

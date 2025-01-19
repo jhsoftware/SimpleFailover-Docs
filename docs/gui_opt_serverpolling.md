@@ -6,7 +6,7 @@ Keywords: Options dialog,Server polling,Polling history database
 
 In this section of the Options dialog, you can configure general settings related to server polling and the polling history database:
 
-![](https://jhsoftware.dk/is/86880f407d34.png)
+![](images/86880f407d34.png)
 
 - **Max. concurrent servers polls**\
 Defines the maximum number of servers that may be polled at the same time. 

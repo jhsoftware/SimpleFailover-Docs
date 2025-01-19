@@ -6,7 +6,7 @@ Keywords: DNS server properties,Update method,Dynamic update via DNS protocol,HT
 
 In this section of the DNS server properties dialog, you specify how to update DNS records on this DNS server:
 
-![](https://jhsoftware.dk/is/6d2b8ec5f8b6.png)
+![](images/6d2b8ec5f8b6.png)
 
  - **Update method**\
 Select one of the available notification methods:
@@ -27,7 +27,7 @@ This DNS update method sends updates directly to the DNS server via the DNS prot
 
 For in-depth technical details about this update method, see RFC2136 - <http://www.rfc-editor.org/rfc/rfc2136.txt>
 
-![](https://jhsoftware.dk/is/daa96598ceca.png)
+![](images/daa96598ceca.png)
 
  - **TSIG sign update request**\
     TSIG signing is a secure method of authenticating the client (in this case Simple Failover) to the DNS server.\
@@ -59,7 +59,7 @@ This DNS update method sends updates to the DNS server via HTTP.
 
 This might be used for example with a dynamic DNS service provider who offers an HTTP interface to update DNS records.
 
-![](https://jhsoftware.dk/is/8ceb1be5bca2.png)
+![](images/8ceb1be5bca2.png)
 
  - **HTTP method**\
 Select GET, POST or PUT.
@@ -101,7 +101,7 @@ With this DNS update method, you can use your own program or script to do the up
 
 It is possible to run executables (.exe) and batch (.bat) files directly, as well as most types of script languages through Windows Scripting Host (WSH) by executing "cscript.exe". For more on WSH see [http://en.wikipedia.org/wiki/Windows\_Script\_Host](http://en.wikipedia.org/wiki/Windows_Script_Host)
 
-![](https://jhsoftware.dk/is/655118a0fbe3.png)
+![](images/655118a0fbe3.png)
 
  - **File to execute**\
 Specify the full path to the file to be executed. Optionally click the "..." button to browse for the file.
@@ -136,7 +136,7 @@ With this DNS update method, you can update a Microsoft DNS server (using the Mi
 
 This update method is included in Simple Failover because Microsoft's DNS server does not support standard TSIG signed dynamic DNS update requests, and therefore cannot be updated securely using that method.
 
-![](https://jhsoftware.dk/is/bede5030005a.png)
+![](images/bede5030005a.png)
 
  - **Local Microsoft DNS server (on this computer)**\
 Select this option if you want to update a Microsoft DNS server on the same computer as is running Simple Failover.

@@ -8,14 +8,14 @@ In this section of the Server set properties dialog, you can specify the host na
 
 These values are used when Simple Failover serves DNS requests directly (see [Options dialog / DNS serving section](gui_opt_dnsserving.md)), and/or when updating DNS servers for this server set (see [Server set properties / Update DNS section](gui_ssprop_updatedns.md))
 
-![](https://jhsoftware.dk/is/5cf6ad43e69c.png)
+![](images/5cf6ad43e69c.png)
 
  - **Host names**\
     List of DNS host names for this server set.\
     Use the Add button to add a new host name, the Edit button to update the selected host name, and the Remove button to remove the selected host name.\
     Clicking the Add or Edit buttons will open the "Host name" dialog:
 
-    ![](https://jhsoftware.dk/is/f655f715a525.png)
+    ![](images/f655f715a525.png)
 
 - **IP addresses of**\
     Which IP addresses to serve through DNS for the above host names.

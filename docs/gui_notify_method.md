@@ -6,7 +6,7 @@ Keywords: Notification properties dialog,Notify method,E-mail,HTTP,Windows event
 
 In this section of the Notification properties dialog, you specify how to send the notification:
 
-![](https://jhsoftware.dk/is/1cd5806420b2.png)
+![](images/1cd5806420b2.png)
 
  - **Notification method**\
 Select one of the available notification methods:
@@ -28,7 +28,7 @@ Click this button to send a test notification using the settings specified in th
 
 Use this notification method to send notifications via e-mail:
 
- ![](https://jhsoftware.dk/is/a24fd7611f31.png)
+ ![](images/a24fd7611f31.png)
 
 - **To e-mail address**\
 The e-mail address to send the notification to.
@@ -81,7 +81,7 @@ Click to open the [E-mail notification defaults dialog](gui_emaildef.md).
 
 With this notification method, Simple Failover will send the notification data via HTTP. Use this to trigger a script on a web-server to handle notification - for example an SMS / texting service.
 
-![](https://jhsoftware.dk/is/572b6c1f8007.png)
+![](images/572b6c1f8007.png)
 
 - **HTTP method**\
 Select GET, POST, or PUT
@@ -109,7 +109,7 @@ With this notification method, you can use your own program or script to send th
 
 It is possible to run executables (.exe) and batch (.bat) files directly, as well as most types of script languages through Windows Scripting Host (WSH) by executing "cscript.exe". For more on WSH see [http://en.wikipedia.org/wiki/Windows\_Script\_Host](http://en.wikipedia.org/wiki/Windows_Script_Host)
 
-![](https://jhsoftware.dk/is/29bf034eca47.png)
+![](images/29bf034eca47.png)
 
 - **File to execute**\
 Specify the full path to the file to be executed. Optionally click the "..." button to browse for the file.

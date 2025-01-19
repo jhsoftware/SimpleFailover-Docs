@@ -6,7 +6,7 @@ Keywords: Options dialog,Logging,Write log files to disk
 
 In this section of the Options dialog, you can configure general settings related to logging:
 
-![](https://jhsoftware.dk/is/c0f557113bbf.png)
+![](images/c0f557113bbf.png)
 
 - **Number of log lines to cache and show in the main window 'Log' tab**\
 The number of log lines cached, available in the main window - Log tab, and available through the [HTTP API](httpapi.md) "/log" URL.\

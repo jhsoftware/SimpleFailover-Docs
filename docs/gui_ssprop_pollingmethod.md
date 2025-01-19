@@ -6,7 +6,7 @@ Keywords: Server set properties dialog,Polling method,PING,TCP connect,HTTP,HTTP
 
 In this section of the Server set properties dialog, you can specify how servers are polled:
 
-![](https://jhsoftware.dk/is/daa350cb51ed.png)
+![](images/daa350cb51ed.png)
 
 - **Polling method**
 
@@ -42,7 +42,7 @@ This polling method has no configurable settings.
 
 With this polling method, a HTTP request is sent to the server, and the response is evaluated:
 
-![](https://jhsoftware.dk/is/c2f31399e623.png)
+![](images/c2f31399e623.png)
 
 - **HTTP method**\
 Can be either GET or HEAD.\
@@ -77,7 +77,7 @@ Once the TCP connection is established, many such services send back a greeting 
 
 Pre-configured settings are available for FTP, SMTP, POP3, NNTP, and IMAP servers.
 
-![](https://jhsoftware.dk/is/fbc0113790fa.png)
+![](images/fbc0113790fa.png)
 
 - **Server type**\
 Choose "Custom" to configure the remaining settings manually, or choose between "FTP", "SMTP", "POP3", "NNTP", and "IMAP" to use standard values for these types of servers.
@@ -105,7 +105,7 @@ Enable this to wait for the server greeting.
 
 With this polling method, a DNS request is sent to a DNS server, and the response is evaluated:
 
-![](https://jhsoftware.dk/is/e37c046c5011.png)
+![](images/e37c046c5011.png)
 
 - **Send DNS request for host name**\
 Specify the host name to query the DNS server about.
@@ -132,7 +132,7 @@ With this polling method, you can use your own program or script to poll the ser
 
 It is possible to run executables (.exe) and batch (.bat) files directly, as well as most types of script languages through Windows Scripting Host (WSH) by executing "cscript.exe". For more on WSH see [http://en.wikipedia.org/wiki/Windows\_Script\_Host](http://en.wikipedia.org/wiki/Windows_Script_Host)
 
-![](https://jhsoftware.dk/is/382364691f8c.png)
+![](images/382364691f8c.png)
 
 - **File to execute**\
 Specify the full path to the file to be executed. Optionally click the "..." button to browse for the file.

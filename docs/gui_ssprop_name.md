@@ -6,7 +6,7 @@ Keywords: Server set properties dialog,Name
 
 In this section of the Server set properties dialog, you can specify the name of the server set:
 
-![](https://jhsoftware.dk/is/b3d479d9c4e7.png)
+![](images/b3d479d9c4e7.png)
 
  - **Server set name**\
 Each server set must have a unique name.\

@@ -6,7 +6,7 @@ Keywords: Server properties dialog,General,Weighted round robin,Pause server set
 
 In this section of the Server properties dialog, you can specify the general settings for a server:
 
-![](https://jhsoftware.dk/is/c0d68c74f973.png)
+![](images/c0d68c74f973.png)
 
 - **Public IP address**\
 The public facing IP address for this server. 
