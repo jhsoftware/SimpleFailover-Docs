@@ -1,5 +1,6 @@
 ---
 Slug: server-set-properties-dialog-dns-data
+DocID: 20
 Keywords: Server set properties dialog,DNS data,TTL value
 ---
 # Server set properties dialog - DNS data

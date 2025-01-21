@@ -1,5 +1,6 @@
 ---
 Slug: server-set-properties-dialog-polling-frequency
+DocID: 18
 Keywords: Server set properties dialog,Polling frequency
 ---
 # Server set properties dialog - Polling frequency

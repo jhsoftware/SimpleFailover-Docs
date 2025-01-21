@@ -1,5 +1,6 @@
 ---
 Slug: main-window-log-tab
+DocID: 4
 Keywords: Main window,Log tab
 ---
 # Main window - Log tab

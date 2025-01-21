@@ -1,5 +1,6 @@
 ---
 Slug: server-set-properties-dialog-servers
+DocID: 16
 Keywords: Server Set Properties dialog,Servers
 ---
 # Server set properties dialog - Servers

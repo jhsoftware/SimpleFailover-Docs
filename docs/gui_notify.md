@@ -1,5 +1,6 @@
 ---
 Slug: notification-properties-dialog
+DocID: 26
 Keywords: Notification properties dialog
 ---
 # Notification properties dialog

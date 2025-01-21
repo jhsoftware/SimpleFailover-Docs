@@ -1,5 +1,6 @@
 ---
 Slug: specific-dns-server-software-simple-dns-plus
+DocID: 39
 Keywords: Simple DNS Plus,JH Software,TSIG
 ---
 # Specific DNS server software - Simple DNS Plus

@@ -1,5 +1,6 @@
 ---
 Slug: server-set-properties-dialog-name
+DocID: 15
 Keywords: Server set properties dialog,Name
 ---
 # Server set properties dialog - Name

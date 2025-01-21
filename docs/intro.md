@@ -1,5 +1,6 @@
 ---
 Slug: welcome
+DocID: 1
 Keywords: Introduction,Monitoring,Notification,Redirection,Weighted round robin,Load balancing,DNS caching,Server set
 ---
 # Welcome to Simple Failover Help

@@ -1,5 +1,6 @@
 ---
 Slug: options-dialog-notification
+DocID: 9
 Keywords: Options dialog,Notification,E-mail notification defaults,Default notification methods
 ---
 # Options dialog - Notification

@@ -1,5 +1,6 @@
 ---
 Slug: server-set-properties-dialog-notification
+DocID: 19
 Keywords: Server set properties dialog,Notification
 ---
 # Server set properties dialog - Notification

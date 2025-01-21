@@ -1,5 +1,6 @@
 ---
 Slug: dns-server-properties-dialog-notes
+DocID: 34
 Keywords: DNS server properties,Notes
 ---
 # DNS server properties dialog - Notes

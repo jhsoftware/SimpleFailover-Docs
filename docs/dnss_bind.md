@@ -1,5 +1,6 @@
 ---
 Slug: specific-dns-server-software-bind
+DocID: 40
 Keywords: BIND,Berkeley Internet Name Domain,TSIG,named.conf
 ---
 # Specific DNS server software - BIND

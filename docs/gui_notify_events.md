@@ -1,5 +1,6 @@
 ---
 Slug: notification-properties-dialog-events
+DocID: 28
 Keywords: Notification properties dialog,Events
 ---
 # Notification properties dialog - Events

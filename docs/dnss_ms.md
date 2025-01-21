@@ -1,5 +1,6 @@
 ---
 Slug: specific-dns-server-software-microsoft-dns
+DocID: 41
 Keywords: Microsoft DNS server,Windows Server
 ---
 # Specific DNS server software - Microsoft DNS

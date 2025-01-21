@@ -1,5 +1,6 @@
 ---
 Slug: dns-server-properties-dialog-dns-lookup
+DocID: 32
 Keywords: DNS server properties,DNS lookup,EDNS0,TTL value
 ---
 # DNS server properties dialog - DNS lookup

@@ -1,5 +1,6 @@
 ---
 Slug: server-properties-dialog-notes
+DocID: 25
 Keywords: Server properties dialog,Notes
 ---
 # Server properties dialog - Notes

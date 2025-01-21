@@ -1,5 +1,6 @@
 ---
 Slug: options-dialog-logging
+DocID: 12
 Keywords: Options dialog,Logging,Write log files to disk
 ---
 # Options dialog - Logging

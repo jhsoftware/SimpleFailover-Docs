@@ -1,5 +1,6 @@
 ---
 Slug: options-dialog-user-interface
+DocID: 7
 Keywords: Options dialog,User interface,System tray,Sound file
 ---
 # Options dialog - User interface

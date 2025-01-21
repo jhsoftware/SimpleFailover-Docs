@@ -1,5 +1,6 @@
 ---
 Slug: server-polling-history-dialog
+DocID: 36
 Keywords: Server polling history dialog,Polling history database
 ---
 # Server polling history dialog

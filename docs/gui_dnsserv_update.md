@@ -1,5 +1,6 @@
 ---
 Slug: dns-server-properties-dialog-update-method
+DocID: 33
 Keywords: DNS server properties,Update method,Dynamic update via DNS protocol,HTTP,Execute command line,Command line,TSIG,Microsoft DNS server
 ---
 # DNS server properties dialog - Update method

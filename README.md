@@ -78,6 +78,7 @@ And topic files may have one of more of these optional properties:
 - **Keywords:** A comma separated list of keywords.
 - **Contributors:** Comma separated list of GitHub IDs of contributors  
 - **Notes:** Notes / remarks.
+- **DocID:** A unique number for the topic - automatically added by compiler if missing.
 
 
 ### Document title

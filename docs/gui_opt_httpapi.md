@@ -1,5 +1,6 @@
 ---
 Slug: options-dialog-http-api
+DocID: 13
 Keywords: Options dialog,HTTP API
 ---
 # Options dialog - HTTP API

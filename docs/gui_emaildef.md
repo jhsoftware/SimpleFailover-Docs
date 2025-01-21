@@ -1,5 +1,6 @@
 ---
 Slug: e-mail-notification-defaults-dialog
+DocID: 35
 Keywords: E-mail notification defaults,E-mail,Notification
 ---
 # E-mail notification defaults dialog

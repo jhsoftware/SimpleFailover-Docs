@@ -1,5 +1,6 @@
 ---
 Slug: options-dialog-dns-updating
+DocID: 10
 Keywords: Options dialog,DNS updating,Concurrent DNS updates,Default DNS servers
 ---
 # Options dialog - DNS updating

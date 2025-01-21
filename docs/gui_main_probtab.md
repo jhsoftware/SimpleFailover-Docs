@@ -1,5 +1,6 @@
 ---
 Slug: main-window-problems-tab
+DocID: 5
 Keywords: Main window,Problems tab
 ---
 # Main window - Problems tab

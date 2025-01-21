@@ -1,5 +1,6 @@
 ---
 Slug: tray-icon
+DocID: 37
 Keywords: Tray Icon,System tray,Icon
 ---
 # Tray Icon

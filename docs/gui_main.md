@@ -1,5 +1,6 @@
 ---
 Slug: main-window
+DocID: 2
 Keywords: Main window,Server Sets tab,Log tab,Problems tab,File menu,Tool bar
 ---
 # Main window

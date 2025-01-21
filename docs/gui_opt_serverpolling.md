@@ -1,5 +1,6 @@
 ---
 Slug: options-dialog-server-polling
+DocID: 8
 Keywords: Options dialog,Server polling,Polling history database
 ---
 # Options dialog - Server polling

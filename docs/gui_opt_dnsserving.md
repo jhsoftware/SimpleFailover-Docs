@@ -1,5 +1,6 @@
 ---
 Slug: options-dialog-dns-serving
+DocID: 11
 Keywords: Options dialog,DNS serving,Serve DNS requests directly,Forward un-matches DNS requests
 ---
 # Options dialog - DNS serving

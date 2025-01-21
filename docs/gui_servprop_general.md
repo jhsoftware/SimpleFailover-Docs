@@ -1,5 +1,6 @@
 ---
 Slug: server-properties-dialog-general
+DocID: 24
 Keywords: Server properties dialog,General,Weighted round robin,Pause server set,Disable server
 ---
 # Server properties dialog - General

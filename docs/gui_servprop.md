@@ -1,5 +1,6 @@
 ---
 Slug: server-properties-dialog
+DocID: 23
 Keywords: Server properties dialog
 ---
 # Server properties dialog

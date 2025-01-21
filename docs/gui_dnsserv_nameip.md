@@ -1,5 +1,6 @@
 ---
 Slug: dns-server-properties-dialog-server-name-ip
+DocID: 31
 Keywords: DNS server properties,Server name / IP
 ---
 # DNS server properties dialog - Server name / IP

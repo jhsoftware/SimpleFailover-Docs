@@ -1,5 +1,6 @@
 ---
 Slug: notification-properties-dialog-notify-method
+DocID: 27
 Keywords: Notification properties dialog,Notify method,E-mail,HTTP,Windows event log,Notification,Execute command line,Command line
 ---
 # Notification properties dialog - Notify method

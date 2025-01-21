@@ -1,5 +1,6 @@
 ---
 Slug: server-set-properties-dialog-polling-method
+DocID: 17
 Keywords: Server set properties dialog,Polling method,PING,TCP connect,HTTP,HTTPS,SSL,FTP,SMTP,POP3,NNTP,IMAP,WSH,Execute command line,Command line
 ---
 # Server set properties dialog - Polling method

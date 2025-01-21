@@ -1,5 +1,6 @@
 ---
 Slug: specific-dns-server-software
+DocID: 38
 Keywords: DNS Servers,Simple DNS Plus,BIND,Microsoft DNS,DNS update
 ---
 # Specific DNS server software

@@ -1,5 +1,6 @@
 ---
 Slug: main-window-server-sets-tab
+DocID: 3
 Keywords: Main window,Server Sets tab,Polling history,Ping
 ---
 # Main window - Server Sets tab

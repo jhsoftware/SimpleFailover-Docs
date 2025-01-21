@@ -1,5 +1,6 @@
 ---
 Slug: server-set-properties-dialog-update-dns
+DocID: 21
 Keywords: Server set properties dialog,Update DNS
 ---
 # Server set properties dialog - Update DNS
