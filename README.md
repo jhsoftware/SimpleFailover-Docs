@@ -91,17 +91,18 @@ We use blockquotes (lines starting with ">") for special HTML rendering.
 
 If you place one of the following tags following the first ">", the whole blockquote will be rendered as follows:
 
-| Tag        | Blockquote rendering |
-| ---------- | --- |
-| `[!BLUE]`  | Light blue callout. For information without any special emphasis.| 
-| `[!GREEN]` | Green callout. For special tips and tricks or other helpful knowledge. | 
-| `[!YELLOW]`| Yellow callout. For stuff that requires cautions.  |
-| `[!RED]`   | Red callout. Warn readers about situations that could cause data loss or unexpected consequences. |
+| Tag           | Blockquote rendering |
+| ------------- | --- |
+| `[!NOTE]`     | Blue background. Useful information that users should know, even when skimming content.| 
+| `[!TIP]`      | Green background. Helpful advice for doing things better or more easily.| 
+| `[!IMPORTANT]`| Yellow background. Key information users need to know to achieve their goal. |
+| `[!WARNING]`  | Yellow background. Urgent info that needs immediate user attention to avoid problems.|
+| `[!CAUTION]`  | Red background. Advises about risks or negative outcomes of certain actions.|
 
 For example:
 
 ```
-> [!GREEN] Wash the car every sunday for best appearances
+> [!TIP] Wash the car every sunday for best appearances
 ```
 
 ### Conditional rendering
