@@ -7,7 +7,7 @@ Keywords: Simple DNS Plus,JH Software,TSIG
 
 Simple DNS Plus is a DNS server software package for desktop and server versions of Windows made by JH Software (same company that makes Simple Failover).
 
-For more information on this product see <https://simpledns.com>.
+For more information on this product see <https://simpledns.plus>.
 
 When updating DNS records on Simple DNS Plus with Simple Failover, we recommend using the [Dynamic update via DNS protocol](gui_dnsserv_update.md#dyndns) update method with the "TSIG sign update request" option enabled.
 
