@@ -42,8 +42,8 @@ For in-depth technical details about this update method, see RFC2136 - <http://w
 
     - **Key name**\
         The key name used to sign update requests. Must match settings on the DNS server.\
-        This is basically equivalent to a user name and must be specified in domain name format, but can otherwise be anything you like.\
-        The RFC recommendation is to use a name which identifies both the client and the server e.g. "client.domain1.server.domain2". However it works just as well (and is probably easier) using just a simple name like "testuser".
+        This is basically equivalent to a username and must be specified in domain name format, but can otherwise be anything you like.\
+        The RFC recommendation is to use a name which identifies both the client and the server e.g. "client.domain1.server.domain2". However, it works just as well (and is probably easier) using just a simple name like "testuser".
 
     - **Secret (base64)**\
         The secret (in base64 format) used to sign update requests. Must match settings on the DNS server.\
@@ -84,7 +84,7 @@ Check this option if the URL is password protected to enter User ID and password
 Specify criteria for when the server is responding correctly and the DNS update was performed.
 
     - **Response status code**\
-    Enable to evaluate the response status code. Typically a successful HTTP response has status code 200.
+    Enable to evaluate the response status code. Typically, a successful HTTP response has status code 200.
 
     - **Response content length is**\
     Enable to evaluate the response content length
@@ -117,7 +117,7 @@ Specify how many seconds to wait for the process to exit.
 
     - **Exit code**\
     Enable this to evaluate the exit code returned by your program / script.\
-    The exit code is an integer value and you can evaluate this for equality (= / not =) or greater/lesser than (\> / \<) against a specified value.\
+    The exit code is an integer value, and you can evaluate this for equality (= / not =) or greater/lesser than (\> / \<) against a specified value.\
     Typically exit code 0 (zero) indicates success while other exit codes indicate some type of error condition.
 
     - **Standard output**\

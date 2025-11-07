@@ -11,9 +11,9 @@ The content area of main window Log tab shows what Simple Failover is doing - li
 
 The number of log lines displayed in the log are can be configured in the [Options dialog / Logging section](gui_opt_logging.md).
 
-## Tool bar buttons
+## Toolbar buttons
 
-When the main window Log tab is selected the tool bar has the following extra buttons:
+When the main window Log tab is selected the toolbar has the following extra buttons:
 
 - **Copy to clipboard**\
 Copies all the content of the log area below to the Windows clipboard. Insert text into another program (like notepad) using the paste function (CTRL+V).

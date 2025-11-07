@@ -5,7 +5,7 @@ Keywords: DNS server properties,Server name / IP
 ---
 # DNS server properties dialog - Server name / IP
 
-In this section of the DNS server properties dialog, you specify the host name or IP address of the this DNS server:
+In this section of the DNS server properties dialog, you specify the host name or IP address of this DNS server:
 
 ![](images/f1299f6b7124.png)
 

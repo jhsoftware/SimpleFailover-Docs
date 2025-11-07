@@ -19,11 +19,11 @@ Open the BIND configuration file (named.conf) file in a text editor, and add a k
 
 IMPORTANT: make sure to add a period (.) after the key name (following the word *key*) in both sections.
 
-The zone file must be placed in a directory where dynamic updates are allowed. In the screen shot you can see, that we have placed the simplefailover.com.zone file in the dyn directory.
+The zone file must be placed in a directory where dynamic updates are allowed. In the screenshot you can see, that we have placed the simplefailover.com.zone file in the dyn directory.
 
 Command line tools are available with BIND to create key values (secrets).
 
-However, it is easier (and just as secure) to use the Generate button in the Simple Failover for this (see screen shot below).
+However, it is easier (and just as secure) to use the Generate button in the Simple Failover for this (see screenshot below).
 
 After editing and saving the named.conf file, you must restart BIND for the changes to take effect.
 

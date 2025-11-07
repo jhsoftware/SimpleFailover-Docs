@@ -29,7 +29,7 @@ Select one of the available polling methods:
 
 With this polling method, an ICMP Echo Request (ping) is sent to the server IP address. If the server responds with a matching ICMP Echo Reply, then the server is considered functional. If a negative response (for example "destination unreachable") is received from a router somewhere in between Simple Failover and the server, or if no response is received, then the server is considered non-functional.
 
-The advantage of this polling method is that it is very simple and light weight (no TCP connection overhead), it uses very little bandwidth (ping packets are very small), and it can be used for any type of Internet service. 
+The advantage of this polling method is that it is very simple and lightweight (no TCP connection overhead), it uses very little bandwidth (ping packets are very small), and it can be used for any type of Internet service. 
 
 The disadvantage is that it can only detect if a server computer is running and is connected to the network. Unlike the other polling methods, ping cannot determine if a specific service on the server computer is running and functioning correctly. 
 
@@ -41,7 +41,7 @@ This polling method has no configurable settings.
 
 ## Polling method - HTTP{#http}
 
-With this polling method, a HTTP request is sent to the server, and the response is evaluated:
+With this polling method, an HTTP request is sent to the server, and the response is evaluated:
 
 ![](images/c2f31399e623.png)
 
@@ -58,7 +58,7 @@ Start the URL with https:// to use SSL. URL may include a non-standard port numb
 Specify criteria for when the server is responding correctly.
 
     - **Response status code**\
-    Enable to evaluate the response status code. Typically a successful HTTP response has status code 200.
+    Enable to evaluate the response status code. Typically, a successful HTTP response has status code 200.
 
     - **Response content length is**\
     Enable to evaluate the response content length
@@ -148,7 +148,7 @@ Specify how many seconds to wait for the process to exit.
 
     - **Exit code**\
     Enable this to evaluate the exit code returned by your program / script.\
-    The exit code is an integer value and you can evaluate this for equality (= / not =) or greater/lesser than (\> / \<) against a specified value.\
+    The exit code is an integer value which you can evaluate for equality (= / not =) or greater/lesser than (\> / \<) against a specified value.\
     Typically exit code 0 (zero) indicates success while other exit codes indicate some type of error condition.
 
     - **Standard output**\

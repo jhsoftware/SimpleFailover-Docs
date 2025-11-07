@@ -5,7 +5,7 @@ Keywords: Main window,Server Sets tab,Log tab,Problems tab,File menu,Tool bar
 ---
 # Main window
 
-The main window in Simple Failover consists of a File menu and 3 tabs (Server Sets, Log, Problems), a Help button (blue circle with ?), and a tool bar:
+The main window in Simple Failover consists of a File menu and 3 tabs (Server Sets, Log, Problems), a Help button (blue circle with ?), and a toolbar:
 
 ![](images/5c8db9d3998f.png)
 
@@ -43,9 +43,9 @@ For details see [Server Sets tab](gui_main_sstab.md), [Log tab](gui_main_logtab.
 
 Opens this help file.
 
-## Tool bar
+## Toolbar
 
-The first 3 buttons on the tool bar are the same on all 3 tabs:
+The first 3 buttons on the toolbar are the same on all 3 tabs:
 
 - **Options...**\
 Opens the [Options dialog](gui_opt.md) to configure general settings of the program (settings not related to any specific server set).

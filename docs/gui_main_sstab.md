@@ -23,9 +23,9 @@ Clicking this button opens the [Server polling history dialog](gui_hist.md) for 
  - **Ping...**\
 Clicking this button opens a new command line window running "ping" with this server's IP address. For quick diagnostics.
 
-## Tool bar buttons
+## Toolbar buttons
 
-When the Servers Sets tab is selected, the tool bar has the following extra buttons:
+When the Servers Sets tab is selected, the toolbar has the following extra buttons:
 
 - **New server set**\
 Click this button to create a new server set. Takes you to the [Server set properties dialog](gui_ssprop.md).

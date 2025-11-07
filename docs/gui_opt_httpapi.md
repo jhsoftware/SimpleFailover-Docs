@@ -18,7 +18,7 @@ Enable / disable the HTTP API interface.
     Read more about the URL prefix format at <http://msdn.microsoft.com/en-us/library/windows/desktop/aa364698(v=vs.85).aspx>
 
     - **Password**\
-    Specify a password for the HTTP API (the user name is always "admin").\
+    Specify a password for the HTTP API (the username is always "admin").\
     Leave the password field blank if you do not wish to password protect the HTTP API.
 
     - **Log HTTP API requests**\

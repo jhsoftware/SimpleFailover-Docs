@@ -13,4 +13,4 @@ Instructions and recommendations are available for the following DNS servers:
 
  - [Microsoft DNS](dnss_ms.md)
 
-We have only tested Simple Failover with the above mentioned DNS servers, but you should also be able to use it with most DNS servers though at one or more of the available [DNS update methods](gui_dnsserv_update.md).
+We have only tested Simple Failover with the above-mentioned DNS servers, but you should also be able to use it with most DNS servers though at one or more of the available [DNS update methods](gui_dnsserv_update.md).
