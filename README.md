@@ -1,6 +1,6 @@
 # Simple Failover Help file
 
-The documentation contained in this repository is hosted at <https://simplefailover.com/help>
+The documentation contained in this repository is hosted at <https://simplefailover.com/docs>
 
 ## Contributions
 
@@ -57,10 +57,10 @@ Must follow this format:
 
 ### Front-matter
 
-At the top of each file is a section with meta data. This section starts and ends with with three dashes (---) on a line by itself.
+At the top of each file is a section with metadata. This section starts and ends with three dashes (---) on a line by itself.
 In other similar documentation projects, this section is in YAML format.
-That is also the plan for this project, but it we haven't gotten to that just yet.
-For now it is just a line based collection of properties - one property per line.
+That is also the plan for this project, but we haven't gotten to that just yet.
+For now, it is just a line based collection of properties - one property per line.
 Each line consisting of a key value pair.
 
 For the '_TOC.md' file, there are 3 required properties:
@@ -105,9 +105,20 @@ For example:
 > [!TIP] Wash the car every sunday for best appearances
 ```
 
+### File inclusion
+
+You can include another markdown file using a link where the text part is `#INCLUDE`.  
+This syntax was chosen because it tricks IDEs into checking if the include file exists - and potentially display a warning if not.
+
+```
+[#INCLUDE](subfolder/filename.md)
+```
+
 ### Conditional rendering
 
-The tags `[?CHM]`, `[?WEB]`, and `[?ANY]` control where the content following each tag is rendered.
+The tags `[?EMBED]`, `[?CHM]`, `[?WEB]`, and `[?ANY]` control where the content following each tag is rendered.
+
+Content that follows `[?EMBED]` is rendered in off-line embedded documentation only.
 
 Content that follows `[?CHM]` is rendered in off-line help file (.chm) file only.
 
@@ -142,3 +153,7 @@ The template file may contain one or more of these replacement tags:
 `{BREADCRUMBS}` - Bread crumbs HTML\
 `{CONTENT}` - Page content
 
+
+### Copyright notice
+
+All documents in this repository are Copyright &copy; [JH Software](https://jhsoftware.dk).
